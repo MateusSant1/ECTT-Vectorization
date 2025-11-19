@@ -91,6 +91,8 @@ pip install -r code/requirements.txt
 ### 3. Execute o Benchmark
 ```bash
 python code/rule110_mvp.py --width 10000 --gens 1000 --repeats 10
+
+AVISO: O AUMENTO DE BANDA OU GERAÇÃO PODE E VAI ACARRETAR EM DEMORA NA EXECUÇÃO SEQUENCIAL DO BECHMARK
 ```
 
 ### 4. Visualize os Resultados
